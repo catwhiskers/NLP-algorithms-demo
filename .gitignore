@@ -1,3 +1,6 @@
 *.txt
 *.zip 
-
+*.tar.gz
+model_algo* 
+params
+.ipynb_checkpoints
